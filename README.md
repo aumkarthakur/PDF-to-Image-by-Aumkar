@@ -12,7 +12,9 @@ sudo apt-get install php7-imagick
 Then Create the upload directory and inside it pdf & image folder. Tree View:
 
 -upload
+
   -image
+  
   -pdf
 
 
